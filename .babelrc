@@ -1,0 +1,4 @@
+{
+  "presets": ["es2015"]
+}
+//do this to be able to use es2015 code. not use var anymore, use imports etc.
